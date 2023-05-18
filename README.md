@@ -1,2 +1,2 @@
 # searching_algo
-simple searching algorithms  
+basic searching algorithams written in python in simplest way possible.
